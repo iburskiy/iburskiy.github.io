@@ -1,2 +1,3 @@
+# Everything is allowed for indexing except for folders after Disallow
 User-agent: *
-Allow: /
+Disallow: /med-portal
